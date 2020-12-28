@@ -1,5 +1,0 @@
-local-data: "bing.com 60 IN A 10.0.0.1"
-local-data: "ctvnews.com 60 IN A 10.0.0.1"
-local-data: "1-m.xyz 60 IN A 10.0.0.1"
-local-data: "1-vr.xyz 60 IN A 10.0.0.1"
-local-data: "101m3.com 60 IN A 10.0.0.1"
